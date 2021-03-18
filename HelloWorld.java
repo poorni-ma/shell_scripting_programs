@@ -5,7 +5,7 @@ public class HelloWorld
 		while(true)
 			{
 				System.out.println("Hello World");
-				System.out.println("Hello everyone");
+				System.out.println("Hello everybody");
 				try
 				{
 					Thread.sleep(8000);
